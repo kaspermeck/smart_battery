@@ -1,2 +1,2 @@
-# smart_battery
-Smart and connected battery for power tools
+# Smart Battery
+Smart and connected battery for power tools.
