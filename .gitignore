@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# VS folders
+arduino_nano_33_ble_sense/.vscode/
